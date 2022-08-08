@@ -1,0 +1,26 @@
+{
+    "name": "alexeikadev/yii2-chartjs-plugin-dragdata",
+    "description": "Chartjs Plugin Dragdata module (based on https://github.com/chrispahm/chartjs-plugin-dragdata) ",
+    "type": "yii2-extension",
+    "version": "v1.0.0",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexei Kevshin",
+            "email": "kusocek@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "alexeikadev\\yii2ChartjsPluginDragdata\\": ""
+        }
+    },
+    "prefer-stable": true
+
+   
+}
